@@ -1,6 +1,6 @@
-# title(){return this.options.title||this.options.name}
+# Tenzies game made in React.js
 
-Quick start:
+Quick start to get all files needed (using yarn or npm tool):
 
 ```
 $ yarn # npm install
@@ -9,23 +9,19 @@ $ yarn build # npm run build
 
 ## Development
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+Run Webpack in watch-mode to continually compile the JavaScript as you work: (You can also config a folder with files to customize webpack5)
 
 ```
 $ yarn watch # npm run watch
 ```
 
-## Supporting Scrimba
+## Description
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+This project was made as an introduction to React in Scrimba which teaches:
+JSX, React components, rendering, props and usability, hooks (useState, useEffect), localStorage, data mapping, controlled react forms, API calls
+using fetch/axios, lazy state initialization. This platform also offers some great courses:
 
 - [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
 - [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
-
-	It would also mean the world to us if you share the courses.  
 
 Happy Coding!
